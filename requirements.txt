@@ -6,5 +6,12 @@ scikit-learn
 numpy
 chardet
 geopandas
+seaborn
+matplotlib
+ipywidgets
+notebook
+jupyterlab
+nbformat
+
 
 -e .

@@ -1,0 +1,10 @@
+streamlit
+pandas
+textblob
+plotly
+scikit-learn
+numpy
+chardet
+geopandas
+
+-e .

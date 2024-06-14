@@ -26,7 +26,7 @@ The Sentiment Analysis and Location Recommendation System is designed to analyze
 1. Clone the Repository: 
 
 ```bash
-  git clone https://github.com/SwathiMJ/sentiment-location-recommendation.git
+  git clone [https://github.com/SwathiMJ/sentiment-location-recommendation.git](https://github.com/SwathiMJ/Location-recommender-with-sentiment-analysis)
 
 ```
 2. Install Dependencies:
